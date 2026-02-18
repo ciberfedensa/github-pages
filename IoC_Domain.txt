@@ -297,3 +297,9 @@ archive.org
 retrodayaengineering.icu
 pub-3bc1de741f8149f49bdbafa703067f24.r2.dev
 berlin101.com
+getauth.pro
+clmasters.pro
+tapnetic.pro
+claude.tapnetic.pro
+onlineapp.pro
+2vk.github.io
