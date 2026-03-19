@@ -349,3 +349,16 @@ jane-practitioner-lightning-preservation.trycloudflare.com
 misc-elliott-mouth-leading.trycloudflare.com
 playback-attributes-interviews-processing.trycloudflare.com
 postal-ssl-converted-quantity.trycloudflare.com
+browser-updater.com
+browser-updater.live
+os-update-server.com
+os-update-server.org
+os-update-server.livedam
+os-update-server.top
+cherryberry.click
+ms-server-default.com
+initialize-configs.com
+ms-global.first-update-server.com
+ms-sql-auth.com
+kolonialeru.com
+sclair.it.com
