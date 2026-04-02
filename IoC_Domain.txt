@@ -396,3 +396,5 @@ ingest.filen-4.net
 ingest.filen-5.net
 ingest.filen-6.net
 hui228.ru
+fullcopev.wiki
+www.technoflow.cl
