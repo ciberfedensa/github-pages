@@ -447,3 +447,6 @@ womchileporta.com/
 fullcopecqavr.top/
 tagtotala.com/cl/
 webs.ru.com
+shivacrio.com
+fijothi.com
+*.workers.dev
