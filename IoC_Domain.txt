@@ -671,3 +671,5 @@ admlogs457.cfd
 blogmstat599.xyz
 bloglogs757.cfd
 pzh1966.com
+pool.supportxmr.com	 
+pool-fr.supportxmr.com
