@@ -773,3 +773,5 @@ appleidcl-aadf-f4qvlm.pages.dev/#
 app.smartsheet.eu/b/form/01a086f672497f6fb430d10cdbc411a7	
 ch.usverificationtim.sbs/?t=8e8a4670691b4ac911d414998d1a988e	
 movistary.top/cl
+providaafp.icu
+*.providaafp.icu
