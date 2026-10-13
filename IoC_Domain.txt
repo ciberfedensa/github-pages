@@ -775,3 +775,5 @@ ch.usverificationtim.sbs/?t=8e8a4670691b4ac911d414998d1a988e
 movistary.top/cl
 providaafp.icu
 *.providaafp.icu
+hxxps://trident-sip-filter.ngrok-free.dev
+hxxps://trident-sip-filter.ngrok-free.dev/eam/.well-known/openid-configuration
